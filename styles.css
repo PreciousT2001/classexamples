@@ -10,10 +10,13 @@
 #favorite{
     background:yellow;
     color:blue;
+   
 }
 
 .song{
     color: red;
+    text-align:center;
+    font-family:lucida console;
 }
 
 #great{
@@ -22,7 +25,7 @@
 }
 
 .ulist{
-   color:blue;
+   color:#28ffe6;
 }
 
  #different{
@@ -31,4 +34,13 @@
  }   
 #famous{
     color:blue;
+}
+.list{
+    color:purple;
+}
+#kind{
+    color:red;
+}
+#read{
+    color:red;
 }
